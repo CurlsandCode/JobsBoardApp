@@ -1,24 +1,2 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ I followed along with Mackenzie as he showed me how to build a Jobs Board application. In this app, we have the ability to Add, Edit, Destroy jobs postings and each job post is assigned to a category, and we are able to filter between the various categories to see only jobs within that category (For example, only “Full-Time” jobs).
