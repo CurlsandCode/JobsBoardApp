@@ -12,7 +12,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'haml', '~> 5.0', '>= 5.0.3'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
-
+gem 'loofah', '~> 2.2.1'
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'capybara', '~> 2.13'
